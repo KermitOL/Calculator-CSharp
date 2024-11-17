@@ -10,7 +10,8 @@ class Program
         Console.WriteLine("2. Subtraction");
         Console.WriteLine("3. Multiplication");
         Console.WriteLine("4. Division");
-        Console.WriteLine("5. Exit");
+        Console.WriteLine("5. Sqaure Root");
+        Console.WriteLine("6. Exit");
         Console.Write("Enter your choice: ");
         int choice = Convert.ToInt32(Console.ReadLine());
         switch (choice)
@@ -50,6 +51,18 @@ class Program
             double numdiv2 = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Result: " + (numdiv1 / numdiv2));
             break;
+
+            case 5:
+            Console.WriteLine("Square Root");
+            Console.Write("Enter number: ");
+            double Square = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Result: " + Math.Sqrt(Square));
+            break;
+
+            case 6:
+            Console.WriteLine("Exiting...");
+            break;
+
 
             default:
             Console.WriteLine("Error Wrong Choice");

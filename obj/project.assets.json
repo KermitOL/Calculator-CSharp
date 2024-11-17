@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lookl\\OneDrive\\Desktop\\Code\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\lookl\\OneDrive\\Documents\\GitHub\\Calculator-CSharp\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\lookl\\OneDrive\\Desktop\\Code\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\lookl\\OneDrive\\Documents\\GitHub\\Calculator-CSharp\\Calculator.csproj",
       "packagesPath": "C:\\Users\\lookl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lookl\\OneDrive\\Desktop\\Code\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\lookl\\OneDrive\\Documents\\GitHub\\Calculator-CSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lookl\\AppData\\Roaming\\NuGet\\NuGet.Config",
