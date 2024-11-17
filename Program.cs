@@ -1,4 +1,4 @@
-﻿ // Importing the System namespace to use Console class
+﻿using System; // Importing the System namespace to use Console class
 
 class Program
 {
